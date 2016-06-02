@@ -1,0 +1,149 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "vincenzo.dilorenzo@libero.it",
+    "enableMultiJS": true,
+    "longName": "'o rilorgio napulitano (napoletan watch)",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/btdisconnected-min.png",
+                "name": "BT_DISCONNECTED",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/btconnected-min.png",
+                "name": "BT_CONNECTED",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_10.png",
+                "name": "BATTERY_10",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_20.png",
+                "name": "BATTERY_20",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_30.png",
+                "name": "BATTERY_30",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_40.png",
+                "name": "BATTERY_40",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_50.png",
+                "name": "BATTERY_50",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_60.png",
+                "name": "BATTERY_60",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_70.png",
+                "name": "BATTERY_70",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_80.png",
+                "name": "BATTERY_80",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_90.png",
+                "name": "BATTERY_90",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/battery_100.png",
+                "name": "BATTERY_100",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/vesuvio_tagliata_con_ombra_100x49.png",
+                "name": "TOP_BACKGROUND_IMAGE_SHADOW_ROUND",
+                "targetPlatforms": [
+                    "chalk"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/vesuvio_tagliata_con_ombra_144x71.png",
+                "name": "TOP_BACKGROUND_IMAGE_SHADOW",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "'o rilogio",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4fce3119-acc1-4fbc-bb79-25018adfafcb",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
